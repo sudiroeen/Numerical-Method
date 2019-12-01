@@ -1,4 +1,4 @@
 Finding differential of polynomial equation using:
-+ Forward Devided Difference
-+ Backward Devided Difference
-+ Center Devided Difference
++ Forward Devided Difference (FDD)
++ Backward Devided Difference (BDD)
++ Center Devided Difference (CDD)
